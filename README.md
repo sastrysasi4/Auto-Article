@@ -1,4 +1,4 @@
-# Auto-Article: Convert YouTube Transcripts into SEO-Friendly Content with Gradio
+# Auto-Article: Convert YouTube Transcripts into SEO-Friendly Content with Gradio UI
 
 Welcome to **Auto-Article**, a project that automates the conversion of YouTube video transcripts into well-structured, SEO-friendly articles using Gradio. This tool leverages NLP techniques and integrates LangChain and the Gemini API to format and optimize transcripts, making it easier to generate high-quality articles for blogs or websites.
 
