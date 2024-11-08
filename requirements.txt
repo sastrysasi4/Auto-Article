@@ -1,0 +1,6 @@
+gradio
+youtube-transcript-api
+python-dotenv
+google-generativeai
+langchain
+langchain-google-genai
